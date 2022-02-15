@@ -35,7 +35,7 @@ Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y
 
 Autores ✒️
 
-- Iker Luna Cruz
+- Mario Ruiz Camuñas
 - Danny Larrea.
 
 Expresiones de Gratitud 🎁
